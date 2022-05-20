@@ -2,7 +2,7 @@
 
 We're building the world's best free and open-source automated time-tracker.
 
-**New here?** You are probably looking for the main repository: ActivityWatch/activitywatch
+**New here?** You are probably looking for the main repository: [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch/)
 
 <!--
 
